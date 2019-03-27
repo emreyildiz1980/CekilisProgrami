@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cekilis_Programi", "Cekilis_Programi\Cekilis_Programi.csproj", "{B11E40FA-C380-4933-96ED-DD1B33F33389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		cekilis_programi_1_02|Any CPU = cekilis_programi_1_02|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11E40FA-C380-4933-96ED-DD1B33F33389}.cekilis_programi_1_02|Any CPU.ActiveCfg = cekilis_programi_1_02|Any CPU
+		{B11E40FA-C380-4933-96ED-DD1B33F33389}.cekilis_programi_1_02|Any CPU.Build.0 = cekilis_programi_1_02|Any CPU
+		{B11E40FA-C380-4933-96ED-DD1B33F33389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11E40FA-C380-4933-96ED-DD1B33F33389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11E40FA-C380-4933-96ED-DD1B33F33389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11E40FA-C380-4933-96ED-DD1B33F33389}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F756F74-7B8F-423C-A9D6-BC768168A8A0}
+	EndGlobalSection
+EndGlobal
